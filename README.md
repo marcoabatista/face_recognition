@@ -17,34 +17,34 @@ Aplicar a Análise das Componentes Principais (PCA) na base de dados ORL disponi
 Foi utilizado um dataset ORL contendo 40 pessoas com 10 imagens estáticas de cada pessoa e também foi incluído mais uma pessoa com outras 10 images montadas manualmente.
 
 ```
-2 componentes principais, acurácia: 30.89%
-3 componentes principais, acurácia: 59.35%
-4 componentes principais, acurácia: 77.24%
-5 componentes principais, acurácia: 82.11%
-6 componentes principais, acurácia: 82.93%
-7 componentes principais, acurácia: 84.55%
-8 componentes principais, acurácia: 87.8%
-9 componentes principais, acurácia: 89.43%
-10 componentes principais, acurácia: 91.87%
-11 componentes principais, acurácia: 91.06%
-12 componentes principais, acurácia: 90.24%
-13 componentes principais, acurácia: 89.43%
-14 componentes principais, acurácia: 89.43%
-15 componentes principais, acurácia: 89.43%
-16 componentes principais, acurácia: 89.43%
-17 componentes principais, acurácia: 89.43%
-18 componentes principais, acurácia: 90.24%
-19 componentes principais, acurácia: 91.06%
-20 componentes principais, acurácia: 91.06%
-21 componentes principais, acurácia: 91.06%
-22 componentes principais, acurácia: 91.87%
-23 componentes principais, acurácia: 92.68%
-24 componentes principais, acurácia: 92.68%
-25 componentes principais, acurácia: 92.68%
-26 componentes principais, acurácia: 91.87%
-27 componentes principais, acurácia: 92.68%
-28 componentes principais, acurácia: 92.68%
-29 componentes principais, acurácia: 92.68%
+2 componentes principais, acurácia: 42.28%
+3 componentes principais, acurácia: 60.98%
+4 componentes principais, acurácia: 78.05%
+5 componentes principais, acurácia: 85.37%
+6 componentes principais, acurácia: 87.8%
+7 componentes principais, acurácia: 91.06%
+8 componentes principais, acurácia: 92.68%
+9 componentes principais, acurácia: 93.5%
+10 componentes principais, acurácia: 92.68%
+11 componentes principais, acurácia: 93.5%
+12 componentes principais, acurácia: 92.68%
+13 componentes principais, acurácia: 90.24%
+14 componentes principais, acurácia: 91.06%
+15 componentes principais, acurácia: 92.68%
+16 componentes principais, acurácia: 91.87%
+17 componentes principais, acurácia: 92.68%
+18 componentes principais, acurácia: 92.68%
+19 componentes principais, acurácia: 92.68%
+20 componentes principais, acurácia: 92.68%
+21 componentes principais, acurácia: 93.5%
+22 componentes principais, acurácia: 94.31%
+23 componentes principais, acurácia: 94.31%
+24 componentes principais, acurácia: 94.31%
+25 componentes principais, acurácia: 94.31%
+26 componentes principais, acurácia: 94.31%
+27 componentes principais, acurácia: 94.31%
+28 componentes principais, acurácia: 95.12%
+29 componentes principais, acurácia: 94.31%
 ```
 
 ## Comentários
